@@ -1,4 +1,3 @@
 # beginner
 Exploring the Github environment
-<br>
-Author:Mahak Gupta
+Author:Mahak(IIITian)
